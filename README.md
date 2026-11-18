@@ -158,25 +158,13 @@ The online ordering site for PCB, a Toronto Vietnamese restaurant. I maintain it
 
 </div>
 
----
-
-### 05 / Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhzkda&show_icons=true&hide_border=true&count_private=true&bg_color=0E1014&title_color=8098FF&text_color=E9EBE6&icon_color=8098FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhzkda&layout=compact&langs_count=6&hide_border=true&bg_color=0E1014&title_color=8098FF&text_color=E9EBE6" />
-
-<img src="https://streak-stats.demolab.com?user=thanhzkda&hide_border=true&background=0E1014&ring=8098FF&fire=2343F0&currStreakLabel=8098FF&currStreakNum=E9EBE6&sideNums=E9EBE6&sideLabels=9AA1A9&dates=9AA1A9&stroke=262B33" />
-
-</div>
 
 ---
 
-### 06 / Beyond code
+### 05 / Beyond code
 
 - 🏗️ **Hack The Six (May 2025):** volunteered on site for 500+ hackers at one of Toronto's largest hackathons.
-- 🚀 **Building toward a business:** every project here is practice for starting my own company. Ship fast, listen to users, own the result.
+- 🥊 **Muay Thai:** Practise Muay Thai as a hobby, developing discipline,physical fitness, resilience, and self-confidence through regular training.
 - 🏂 **Snowboarding:** falling, getting up, and trying the line again is a decent model for debugging too.
 
 ---
@@ -192,7 +180,6 @@ The fastest way to reach me is email: **thanhdinh140705@gmail.com**
 <a href="https://www.linkedin.com/in/thanh-dinh-309167317"><b>LinkedIn</b></a> ·
 <a href="mailto:thanhdinh140705@gmail.com"><b>Email</b></a>
 
-<img src="https://komarev.com/ghpvc/?username=thanhzkda&style=flat-square&color=2343F0&label=profile+views" />
 
 <sub>Built in Toronto 🇨🇦</sub>
 

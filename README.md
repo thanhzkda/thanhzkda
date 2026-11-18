@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://thanhzkda.github.io/theo-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2343F0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://thanhzkda.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-2343F0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/thanh-dinh-309167317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:thanhdinh140705@gmail.com"><img src="https://img.shields.io/badge/Email-12151A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
